@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="objective">I build smooth Android experiences and love design-driven development.</string>
+    <string name="name">Ashvin Prajapari</string>
+    <string name="profesion">Android Developer | UI/UX Enthusiast</string>
+    <string name="about_me_1">I’m a passionate Android Developer with over 1 years of hands-on and self-learning experience. My journey began with a deep curiosity about how Android applications work, which led me to explore the world of programming and mobile development.</string>
+    <string name="about_me_2">Currently, I’m expanding my skills by learning modern technologies like Kotlin and Jetpack Compose to build more efficient, responsive, and clean UIs — aiming to write scalable and maintainable code.</string>
+</resources>
