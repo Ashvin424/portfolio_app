@@ -70,3 +70,11 @@ To run the project locally:
   📧 pashvin6665@gmail.com
 
   🔗 GitHub - Ashvin424
+
+  ---
+
+  💬 Feel free to fork, open issues, or contribute to improve this portfolio app.
+
+  ---
+  
+   © 2025 Ashvin Prajapati. All rights reserved.
