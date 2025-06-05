@@ -18,7 +18,7 @@ A sleek and modern Android portfolio application built with Java and XML. This a
 
 | Home Page | About Page | Project Page |
 |-----------|-------------|---------------|
-| ![Home](screenshots/home.jpg) | ![About](screenshots/about.jpg) | ![Projects](screenshots/projects.jpg) |
+| ![Home](screenshots/home.jpg) | ![About](screenshots/about.jpg) | ![Projects](screenshots/project.jpg) |
 
 | Resume Page | Contact Page |
 |-------------|----------------|
